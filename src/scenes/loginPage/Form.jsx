@@ -268,7 +268,7 @@ const Form=()=>{
 
                 }}
                 >
-                    {isLogin ? "Don't have an account ? Singn Up here. " :" Already have an account ? Login here."}
+                    {isLogin ? "Don't have an account ? Sign Up here. " :" Already have an account ? Login here."}
                 </Typography>
             </Box>
 
