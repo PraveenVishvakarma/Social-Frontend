@@ -16,7 +16,7 @@ const LoginPage=()=>{
             fontSize="32px" 
             color="primary"
             >
-                Sociopedia
+                 Maitreya
             </Typography>
         </Box>
         <Box 
